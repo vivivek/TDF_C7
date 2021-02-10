@@ -100,10 +100,10 @@ def for_function():
 #main is the default function that will run! 
 def main():
 
-    #conditional()
+    conditional()
         
     #while_function()
-    for_function()
+    #for_function()
     
     #wait five seconds ...
     time.sleep(5)
